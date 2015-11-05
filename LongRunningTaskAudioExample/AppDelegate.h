@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "BackgroundTimeRemainingUtility.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
